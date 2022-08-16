@@ -1,7 +1,7 @@
-import Board from "../../pages/Board";
+import Main from "../../pages/Main";
 
 function App() {
-  return <Board />;
+  return <Main />;
 }
 
 export default App;

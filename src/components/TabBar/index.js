@@ -17,7 +17,7 @@ export default function TabBar() {
 }
 
 const TabBarWrapper = styled.div`
-  width: 100%;
+  width: 1920px;
   height: 40px;
   background: #ebedf2 0% 0% no-repeat padding-box;
   border: 1px solid #d5d9e2;
