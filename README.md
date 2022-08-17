@@ -7,7 +7,7 @@
 - [x] 라벨 삭제 기능
 
 ## 실행화면
-<image width=500 height=500 src="https://user-images.githubusercontent.com/68631561/185160172-5f88ac33-e97c-4ca1-a27b-fc99f64fa7ff.gif" />
+<image width=500 height=500 src="https://user-images.githubusercontent.com/68631561/185172985-48bfdca3-d15b-4029-88f7-6bb2b08023ae.gif" />
 
 ## 실행방법
 ```
