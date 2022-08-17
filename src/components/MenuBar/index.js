@@ -21,4 +21,8 @@ const MenuBarWrapper = styled.div`
   height: 64px;
   background: #fcfcfc 0% 0% no-repeat padding-box;
   border: 1px solid #ebedf2;
+
+  button {
+    border: none;
+  }
 `;
