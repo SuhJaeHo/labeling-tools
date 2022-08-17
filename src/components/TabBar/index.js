@@ -7,7 +7,7 @@ export default function TabBar() {
 
   return (
     <TabBarWrapper>
-      {images.map((key) => (
+      {images.map(key => (
         <button key={key}>
           <img src={tabImage[key]} alt={key} />
         </button>
@@ -28,5 +28,6 @@ const TabBarWrapper = styled.div`
     border: none;
     padding: 0;
     background: transparent;
+    float: right;
   }
 `;
